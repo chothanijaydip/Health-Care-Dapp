@@ -47,7 +47,7 @@ Once you download the final source code, you will get a ZIP file, then you will 
 #### ALL SOURCE CODE
 
 ```
-  STARTER_FILE: https://github.com/chothanijaydip/Health-Care-Dapp
+  STARTER_FILE: https://github.com/chothanijaydip/Health-Care-Dapp/tree/setup_file
 ```
 
 #### Install Vs Code Editor
