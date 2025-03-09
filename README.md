@@ -6,15 +6,7 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/07/Build-Deploy-a-Medical-Health-Management-Blockchain-Dapp-Solidity-Hardhat-Nextjs-Context-AP-and-web3-providers.jpg)
-
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-medical-health-management-blockchain-dapp-or-solidity-hardhat-next.js-context-ap-and-web3-providers)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/0TwuL8V9zUE?si=UFuWkzh-DofBndjp)
 
 ```
   WATCH: Setup & Demo Of Project
@@ -35,12 +27,6 @@ Kindly follow the following Instructions to run the project in your system and i
   NPM: 8.19.2
 ```
 
-#### ALL SOURCE CODE
-
-```
- URL: https://www.theblockchaincoders.com/SourceCode
-  GET: Project Starter File Download
-```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
@@ -122,18 +108,6 @@ We are using RemixID for deploying the contract and generation of the ABI in the
   OPEN: Polygon Amoy
   URL: https://amoy.polygonscan.com/
 ```
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
 
 #### PACKAGES
 
